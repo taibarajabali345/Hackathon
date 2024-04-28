@@ -1,0 +1,33 @@
+button{
+    background-color: black;
+    color: white;
+}
+
+.container {
+    float: left;
+    width: calc(100% - 500px); /* Width of container minus width of image */
+}
+
+.side-content {
+    float: right;
+    width: 500px; /* Width of image */
+}
+
+div{   
+    background-color: palevioletred;
+}
+
+h1{
+    color: plum;
+
+}
+
+button{
+    background-color:black ;
+    color: white;
+}
+
+img{
+    display: flex;
+    flex: right;
+}
